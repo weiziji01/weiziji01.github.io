@@ -13,7 +13,7 @@ Ziji Wei (weiziji23@mails.ucas.ac.cn) received the B.S. degree in 2023, [Chongqi
 
 Education
 ======
-- 2023.09 - Now, Doctor, Signal and Information Processing, [Aerospace Information Research Institute](https://aircas.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), Beijing. Supervisor: [Lianru Gao](https://people.ucas.ac.cn/~gaolianru)(高连如，国家杰青、国家优青、IET Fellow) & [Xu Sun](https://people.ucas.edu.cn/~sunxu_aircas)(孙旭)
+- 2023.09 - Now, pursuing the Doctor, Signal and Information Processing, [Aerospace Information Research Institute](https://aircas.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), Beijing. Supervisor: [Lianru Gao](https://people.ucas.ac.cn/~gaolianru)(高连如，国家杰青、国家优青、IET Fellow) & [Xu Sun](https://people.ucas.edu.cn/~sunxu_aircas)(孙旭)
 - 2019.09 - 2023.06, Undergraduate, Geomatics Engineer, [School of Civil Engineering](https://civil.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/), Chongqing
 
 Honors and Awards
