@@ -12,17 +12,14 @@ Ziji Wei (weiziji23@mails.ucas.ac.cn) received the B.S. degree in 2023, Chongqin
 Education
 ======
 - 2023.09 - Now, Doctor, University of Chinese Academy of Sciences, Beijing.
-
 - 2019.09 - 2023.06, Undergraduate, Chongqing University, Chongqing
 
-Getting started
+Honors and Awards
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- 2025.06 中国科学院空天信息创新研究院第二届无人机遥感技能大赛“无人机水体快速取样与计量”赛道 二等奖
+- 2023.09 重庆市优秀本科毕业论文（设计）
+- 2022.12 国家奖学金
+- 2022.07 全国大学生测绘学科创新创业智能大赛测绘技能竞赛（测绘程序设计比赛专业组） 一等奖
 
 Site-wide configuration
 ------
