@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 Ziji Wei (weiziji23@mails.ucas.ac.cn) received the B.S. degree in 2023, [Chongqing University](https://www.cqu.edu.cn/). He is currently pursuing the Ph.D. degree with the Key Laboratory of Computational Optical Imaging Technology, [Aerospace Information Research Institute](https://aircas.cas.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), Beijing, China. His research interests include Object Detection on Remote Sensing Images.
+- Email: weiziji23@mails.ucas.ac.cn
+- WeCgat: wei_zj0320
 
 Education
 ======
