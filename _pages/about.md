@@ -30,8 +30,6 @@ Comming Soon...
 
 Reviewer
 ======
-- Pattern Recognition
-- IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - IET Image Processing
 
